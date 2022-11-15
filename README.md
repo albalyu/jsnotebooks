@@ -1,2 +1,2 @@
-# jsnotebooks
-JavaScript notebooks
+# jstablet
+JavaScript tablet

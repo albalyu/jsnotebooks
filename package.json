@@ -1,19 +1,19 @@
 {
-  "name": "js-notebooks",
-  "version": "0.0.1",
-  "description": "JavaScript notebooks",
+  "name": "jstablet",
+  "version": "0.0.3",
+  "description": "JavaScript tablet",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albalyu/jsnotebooks.git"
+    "url": "git+https://github.com/albalyu/jstablet.git"
   },
   "author": "albalyu@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/albalyu/jsnotebooks/issues"
+    "url": "https://github.com/albalyu/jstablet/issues"
   },
-  "homepage": "https://github.com/albalyu/jsnotebooks#readme"
+  "homepage": "https://github.com/albalyu/jstablet#readme"
 }
